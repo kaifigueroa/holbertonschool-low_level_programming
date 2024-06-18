@@ -1,7 +1,9 @@
-include <stdio.h>
+#include <stdio.h>
 
 /**
  * main - print the letters of the alphabet
+ *
+ * Description: print the letters of the alphabet except e, q
  *
  * Return: Always 0 (Success)
  */
