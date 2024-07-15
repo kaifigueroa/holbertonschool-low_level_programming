@@ -1,6 +1,6 @@
 #include <stdeff.h>
-#ifndef function_pointers.h
-#define C program
+#ifndef <function_pointers.h>
+#define <C-program>
 
 int _putchar(char c);
 void print_name(char *name, void (*f)(char *));
